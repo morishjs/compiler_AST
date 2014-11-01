@@ -1,0 +1,9 @@
+extern deterninant(a, b, c);
+
+def circlesize(x) (x * x) * 3.14;
+def rectanglesize(x, y) x * y;
+def fibonacci(n) fibonacci(n-1.0) * fibonacci(n-2.0);
+
+def main() circlesize(35.6, 23.3);
+
+callexpr(w + x, x + y, y + z);
